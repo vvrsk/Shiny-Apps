@@ -1,0 +1,2 @@
+This is a project created to tryout the Shinyplots in R
+There are two files in the project, server.R which has hte code that runs on the Server and ui.R which dictates the UI of the visualizationthe 
