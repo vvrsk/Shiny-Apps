@@ -1,2 +1,12 @@
 This is a project created to tryout the Shinyplots in R
-There are two files in the project, server.R which has hte code that runs on the Server and ui.R which dictates the UI of the visualizationthe 
+There are two files in the project, server.R which has hte code that runs on the Server and ui.R which dictates the UI of the visualization.
+
+The link for the plot that is generated is hosted in the following [Link](https://vvrsk.shinyapps.io/shinyapps-plot/)
+
+
+The other Plots that are done in the Shiny plots can are
+
+*[visual_analysis_of_towed_vehicles_in_city_of_chicago](https://vvrsk.shinyapps.io/visual_analysis_of_towed_vehicles_in_city_of_chicago/)
+
+
+More plots are on the way!! watch my RPubs page at [rpubs.com/vvrsk](www.rpubs.com/vvrsk)
